@@ -1,0 +1,21 @@
+.mainsection {
+    background-color: tan;
+}
+h1 {
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h2 {
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.header {
+    border-style: double;
+    color:black;
+    background-color: darkgreen;
+}
+img {
+    border-radius: 10px;
+}
